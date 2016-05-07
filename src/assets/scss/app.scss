@@ -1,0 +1,11 @@
+@import 'settings';
+@import 'foundation';
+
+
+.hello {
+  color: $primary-color;
+}
+
+.world {
+  background-color: $primary-color;
+}
